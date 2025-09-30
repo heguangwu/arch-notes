@@ -1,6 +1,17 @@
+<!-- omit in toc -->
 # `Spring` 使用技巧
 
 大多数代码来自[`RuoYi`](https://ruoyi.vip/)。
+
+- [`PreAuthorize` 方法级权限控制](#preauthorize-方法级权限控制)
+  - [开启注解支持](#开启注解支持)
+  - [基本用法](#基本用法)
+- [`Aspect`切面](#aspect切面)
+- [自定义校验注解](#自定义校验注解)
+- [`InitBinder` 请求参数绑定及校验](#initbinder-请求参数绑定及校验)
+  - [参数绑定](#参数绑定)
+  - [校验](#校验)
+
 
 ## `PreAuthorize` 方法级权限控制
 
