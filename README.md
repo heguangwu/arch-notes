@@ -2,8 +2,9 @@
 
 ## `Java` Web 架构
 
-### [Spring使用技巧](./spring/Spring使用技巧.md)
+- [Spring使用技巧](./spring/Spring使用技巧.md)
 
 ## 通用
 
-### [数据库表设计](./common/数据库表设计.md)
+- [数据库表设计](./common/数据库表设计.md)
+- [git工作流程](./common/git工作流程.md)
